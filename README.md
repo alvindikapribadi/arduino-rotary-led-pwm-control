@@ -34,6 +34,24 @@ This project demonstrates how to combine rotary encoder input with PWM LED outpu
 
 ---
 
+## 📷 Wiring Diagram
+
+![Wiring Diagram](diagram.png)
+
+> Make sure your wiring matches the diagram above before uploading the code.
+
+---
+
+## 💻 Arduino Code
+
+You can download the Arduino sketch here:
+
+[Download Arduino Code](Arduino_Rotary_LED_PWM.ino)
+
+Or open the `.ino` file directly inside this repository.
+
+---
+
 ## How It Works
 
 The rotary encoder detects direction of rotation.
@@ -52,6 +70,18 @@ Brightness value is limited between 0–255 and sent to LED using PWM (`analogWr
 
 ---
 
+## 🎥 Video Tutorial
+
+Watch the full step-by-step tutorial on YouTube:
+
+👉 
+
+---
+
 ## License
 
 Free to use for educational purposes.
+
+---
+
+Happy Coding 🚀
