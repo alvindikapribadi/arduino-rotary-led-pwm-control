@@ -74,7 +74,7 @@ Brightness value is limited between 0–255 and sent to LED using PWM (`analogWr
 
 Watch the full step-by-step tutorial on YouTube:
 
-👉 
+[![Watch the video](https://img.youtube.com/vi/_iiLlQ1Lz8Y/0.jpg)](https://youtu.be/_iiLlQ1Lz8Y)
 
 ---
 
